@@ -1,0 +1,47 @@
+body
+{
+   background-color:black;
+   color: white;
+}
+
+div.red 
+{
+  background-color: red;
+}
+
+.hai{ 
+  background-color: orange;
+  margin-right: 60% ;
+}
+
+#haii{
+  background-color: violet;
+}
+
+li:hover{
+  color: blueviolet;
+  
+}
+
+div.hello{
+  background-color: violet;
+  border-radius: 28px ;
+  border: 10px solid green;
+  padding: 30px;
+  margin-left: 100px;
+  margin-right: 60%;
+  margin-top: 20px ;
+  margin-bottom: 30px ;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+th {
+  text-align: left;
+}
